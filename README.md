@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Humans, bow before me!
